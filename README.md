@@ -21,6 +21,7 @@ A curated list of Geometric Algebra resources, inspired by [awesome](https://git
 
 #### Python
   - [galgebra](https://github.com/pygae/galgebra) :: symbolic GA package for sympy
+  - [kingdon](https://github.com/tBuLi/kingdon) :: A symbolically optimized Geometric Algebra library with PyTorch/NumPy/SymPy/etc. compatibility and ganja.js visualization.
   - [clifford](https://github.com/pygae/clifford) :: a numerical GA package in python
   - [tfga](https://github.com/RobinKa/tfga) :: Tensorflow implementation of GA in python
   - [lean-ga](https://github.com/pygae/lean-ga) :: GA proof verification
@@ -28,6 +29,12 @@ A curated list of Geometric Algebra resources, inspired by [awesome](https://git
 #### Julia
   - [SimpleGA: A Lightweight Geometric Algebra Library](https://github.com/MonumoLtd/SimpleGA.jl) :: A simple, fast implementation of Geometric Algebra in Julia
   - [Grassmann.jl](https://github.com/chakravala/Grassmann.jl) :: GA in julia
+  - [GeometricAlgebra.jl](https://velexi-research.github.io/GeometricAlgebra.jl/stable/)
+    https://github.com/velexi-research/GeometricAlgebra.jl
+  - [Multivectors.jl]
+  - [Jollywatt/GeometricAlgebra.jl]
+  - [serenity4/GeometricAlgebra.jl]
+  - [GAlgebra.jl]
 
   #### C++
   - [Garamon](https://github.com/vincentnozick/garamon) :: C++ generator
@@ -51,7 +58,8 @@ A curated list of Geometric Algebra resources, inspired by [awesome](https://git
 
 - [STEMCstudio](https://www.stemcstudio.com/) by George C. Holmes
 - [The CoffeeShop](https://enkimute.github.io/ganja.js/examples/coffeeshop.html#pga2d_points_and_lines)
-- ??? CoCalc using a library
+- [Kingdon Teahouse](https://tbuli.github.io/teahouse/lab/index.html) 
+- ??? CoCalc using a library such as galgebra and sympy
 
 ### Websites and Hypermedia
 
@@ -61,6 +69,7 @@ A curated list of Geometric Algebra resources, inspired by [awesome](https://git
 - [Let's remove Quaternions from every 3D Engine (An Interactive Introduction to Rotors from Geometric Algebra)](https://marctenbosch.com/quaternions/) by **Marc ten Bosch**
 - [Geometric Algebra Explorer](https://ga-explorer.netlify.app/index.php/ga-online-resources/)
 - [Geometric Algebra Tutorial](https://geometricalgebratutorial.com/)
+- [Papers in Geometric Algebra and Foundations of Physics](https://www.faculty.luther.edu/~macdonal/index.html#geometric-algebra) **Alan Macdonald**
 - [Geometric Algebra - Wikipedia](https://en.wikipedia.org/wiki/Geometric_algebra)
  
 - [Geometric Algebra — a guided tour / Yao Liu](https://observablehq.com/@liuyao12/geometric-algebra) may not be conforming to the Hestenes formalism but uses ganga.js
@@ -128,6 +137,7 @@ A curated list of Geometric Algebra resources, inspired by [awesome](https://git
 
 ### Papers
 #### Geometric Algebra
+  - [Papers in Geometric Algebra and Foundations of Physics](https://www.faculty.luther.edu/~macdonal/index.html#geometric-algebra) **Alan Macdonald**
 
 
 #### Geometric Calculus
