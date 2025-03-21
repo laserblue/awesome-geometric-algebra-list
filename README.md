@@ -158,9 +158,10 @@ for geometrical applications
 - [The Vector Algebra War](https://youtu.be/_AaOFCl2ihc?si=w-dp0KaZ9OU5a7SF)
 
 
-Uses **Geometric Algebra** as a synonym for **Clifford Algebra** and does not use the unified notation developed by David Hestenes et al.
 - [Applied Geometric Algebra (1976)](https://ocw.mit.edu/courses/res-8-001-applied-geometric-algebra-spring-2009/95490d4f704fabc782963546923670e1_MITRES_8_001_lec_complete.pdf) by Laszlo Tisza
   [Applied Geometric Algebra, MIT OpenCourseWare](https://ocw.mit.edu/courses/res-8-001-applied-geometric-algebra-spring-2009/)
+  
+  Uses **Geometric Algebra** as a synonym for **Clifford Algebra** and does not use the unified notation developed by David Hestenes et al.
  
 
 ### Biographical
