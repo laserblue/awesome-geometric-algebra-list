@@ -58,7 +58,7 @@ A curated list of geometric algebra resources, inspired by [awesome](https://git
   #### YouTube Channels
   [Bivector](https://www.youtube.com/@bivector)
   
-  [sudglacmoe](https://www.youtube.com/@sudgylacmoe)
+  [sudgylacmoe](https://www.youtube.com/@sudgylacmoe)
   
   [EccentricTuber](https://www.youtube.com/@EccentricTuber)
   
