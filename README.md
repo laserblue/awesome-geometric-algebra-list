@@ -75,11 +75,18 @@ A curated list of Geometric Algebra resources, inspired by [awesome](https://git
 - [Geometric Algebra for Computer Graphics - Siggraph 2019](https://www.youtube.com/watch?v=tX4H_ctggYo) by **Charles Gunn**
 - [Geometric Algebra and Calculus Videos](https://www.youtube.com/channel/UCymE67THrWoeTABxzJm1wdg/videos) by **Alan Macdonald**
 - [From Vectors to Multivectors](https://www.youtube.com/playlist?list=PLQ6JJNfj9jD_H3kUopCXkvvGoZqzYOzsV) by **Nick Okamoto**, a 3-part intro on Youtube
+- [Self-Study Geometric Algebra!](https://youtu.be/Egb-qlb8870?si=h4mh687f0XUE8lrM) by the **Eccentric** YouTube Channel
 - [GAME2020 3. Professor Anthony Lasenby. A new language for physics.](https://youtu.be/m7v2IUJtC3g?si=Dp0BVK_lt8VCab29) on the **Bivector** YouTube Channel
 - [Amazing Things You Can Do in Geometric Algebra - Explained](https://youtu.be/xGuN6KM_D18?si=v6pO-aJ066zdb5pk) on the **ThoughtThrill** YouTube Channel
 - [Good geometric algebra textbooks (Clifford algebras)](https://youtube.com/shorts/-KUIR99nF6k?si=H3mOSBaxtLUwxiL2) on the **UV Wizard** YouTube Channel
 - [Geometric Algebra, First Course, Episode 00: High Level Overview](https://www.youtube.com/watch?v=e5D7Bma9Vhw) by **David Geo Holmes** (STEMCstudio) YouTube Channel
 - [SimpleGA: A Lightweight Geometric Algebra Library](https://www.youtube.com/watch?v=zq3wHwWf4WA) by **Chris Doran**, JuliaCon 2023, The Julia Programming Language
+- [David Hestenes - Tutorial on Geometric Calculus](https://youtu.be/ItGlUbFBFfc?si=5exp8FaM1iaEiOHA) on the **Nomen Nominandum** YouTube Channel
+- [Quaternions in Geometric Algebra and Physics (HestenesJMM2019)](https://www.youtube.com/watch?v=zsQQ7djCg_Y) a presentation by **David Hestenes** (Department of Physics, Arizona State University), Joint Mathematics Meetings 2019 (JMM2019) AMS Special Session on Quaternions II Baltimore, Wednesday January 16, 2019. on the **Quaternion Notices** YouTube Channel
+- [Solution Strategies for Geometric (Clifford) Algebra Problems](https://youtu.be/HfX8zh8vKro?si=LJ_7GcoTz_qaRJ4h) on the **Pre-University Geometry** YouTube Channel
+- [GA for Introductory Physics](https://youtu.be/Eauj0JJEyJ8?si=deOlU-GCRPcawcbQ) on the **Katelyn Spadavecchia** YouTube Channel
+- [Projective Geometric Algebra for Paraxial Geometric Optics](https://www.youtube.com/watch?v=X_k7dNitHM0) on the **Katelyn Spadavecchia** YouTube Channel
+- [The power of Geometric Algebra Computing for Mathematica](https://www.youtube.com/watch?v=1cWGV2qaBHo) on the **Wolfram** YouTube Channel
 
   
   
@@ -91,12 +98,18 @@ A curated list of Geometric Algebra resources, inspired by [awesome](https://git
   [EccentricTuber](https://www.youtube.com/@EccentricTuber)
   
   [PeeterJoot](https://www.youtube.com/@PeeterJoot)
+
+  [Pre-University Geometric Algebra Videos](https://www.youtube.com/@pre-universitygeometricalg5862)
   
   [JimSmithInChiapas](https://www.youtube.com/@JimSmithInChiapas)
   
 
   #### YouTube Playlists
    [Geometric Algebra for High Schoolers](https://www.youtube.com/playlist?list=PL4P20REbUHvzPW8rkHVyu9l20fJ5Iih2M) by **JimSmithInChiapas**
+   [Geometric Algebra](https://www.youtube.com/playlist?list=PLLvlxwbzkr7igd6bL7959WWE7XInCCevt) by **Alan Macdonald**
+   [Geometric Calculus](https://www.youtube.com/playlist?list=PLLvlxwbzkr7i6DlChcYEL7nJ8R9ZuV8JA) by **Alan Macdonald**
+   [Geometric Algebra for Physicists](https://www.youtube.com/playlist?list=PL4TOpi2EWY8a7dmFb7DbfPNKEAIZWi_rr) by the **Eccentric** YouTube Channel
+  
   
 
 ### Books
@@ -141,6 +154,8 @@ for geometrical applications
 ### Historical
 
 - [The Genesis of Geometric Algebra: A Personal Retrospective](https://davidhestenes.net/misc/Hestenes_2016_-_The_Genesis_of_Geometric_Algebra,_A_Personal_Retrospective.pdf) by **David Hestenes**
+- 
+- [The Vector Algebra War](https://youtu.be/_AaOFCl2ihc?si=w-dp0KaZ9OU5a7SF)
 
 
 Uses **Geometric Algebra** as a synonym for **Clifford Algebra** and does not use the unified notation developed by David Hestenes et al.
