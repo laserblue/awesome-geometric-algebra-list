@@ -50,6 +50,7 @@ A curated list of Geometric Algebra resources, inspired by [awesome](https://git
 ### Online IDE's, SDK's and Computational Modeling Workspaces and Playgrounds
 
 - [STEMCstudio](https://www.stemcstudio.com/) by George C. Holmes
+- [The CoffeeShop](https://enkimute.github.io/ganja.js/examples/coffeeshop.html#pga2d_points_and_lines)
 - ??? CoCalc using a library
 
 ### Websites and Hypermedia
@@ -105,10 +106,10 @@ A curated list of Geometric Algebra resources, inspired by [awesome](https://git
   
 
   #### YouTube Playlists
-   [Geometric Algebra for High Schoolers](https://www.youtube.com/playlist?list=PL4P20REbUHvzPW8rkHVyu9l20fJ5Iih2M) by **JimSmithInChiapas**
-   [Geometric Algebra](https://www.youtube.com/playlist?list=PLLvlxwbzkr7igd6bL7959WWE7XInCCevt) by **Alan Macdonald**
-   [Geometric Calculus](https://www.youtube.com/playlist?list=PLLvlxwbzkr7i6DlChcYEL7nJ8R9ZuV8JA) by **Alan Macdonald**
-   [Geometric Algebra for Physicists](https://www.youtube.com/playlist?list=PL4TOpi2EWY8a7dmFb7DbfPNKEAIZWi_rr) by the **Eccentric** YouTube Channel
+   - [Geometric Algebra for High Schoolers](https://www.youtube.com/playlist?list=PL4P20REbUHvzPW8rkHVyu9l20fJ5Iih2M) by **JimSmithInChiapas**
+   - [Geometric Algebra](https://www.youtube.com/playlist?list=PLLvlxwbzkr7igd6bL7959WWE7XInCCevt) by **Alan Macdonald**
+   - [Geometric Calculus](https://www.youtube.com/playlist?list=PLLvlxwbzkr7i6DlChcYEL7nJ8R9ZuV8JA) by **Alan Macdonald**
+   - [Geometric Algebra for Physicists](https://www.youtube.com/playlist?list=PL4TOpi2EWY8a7dmFb7DbfPNKEAIZWi_rr) by the **Eccentric** YouTube Channel
   
   
 
@@ -121,7 +122,7 @@ A curated list of Geometric Algebra resources, inspired by [awesome](https://git
 - [Foundations of Geometric Algebra Computing](http://link.springer.com/book/10.1007/978-3-642-31794-1) by **Dietmar Hildenbrand**
 - [Space-Time Algebra](http://www.springer.com/us/book/9783319184128) by **David Hestenes**
 - [New Foundations for Classical Mechanics](https://link.springer.com/book/10.1007/0-306-47122-1) (1999), 2nd Ed. by **David Hestenes**
-- [Geometric Algebra for Electrical Engineers](https://peeterjoot.com/writing/geometric-algebra-for-electrical-engineers/) by Peeter Joot
+- [Geometric Algebra for Electrical Engineers](https://peeterjoot.com/writing/geometric-algebra-for-electrical-engineers/) by **Peeter Joot**
 
 - [Clifford Algebra to Geometric Calculus](https://math.mit.edu/~dunkel/Teach/18.S996_2022S/books/Hestenes-Sobczyk1984_Book_CliffordAlgebraToGeometricCalc.pdf)
 
@@ -148,23 +149,22 @@ A curated list of Geometric Algebra resources, inspired by [awesome](https://git
 a computational framework
 for geometrical applications
 (Part I: algebra)](https://cs.uwaterloo.ca/~smann/Papers/dorst-mann-I.pdf) by **Leo Dorst** and **Stephen Mann**
-  -[From Grassmann’s vision to Geometric Algebra Computing](http://www.gaalop.de/dhilden_data/GrassmannComputers.pdf) by Dietmar Hildenbrand
-  - [Compiling Geometric Algebra Computations into Reconfigurable Hardware Accelerators](https://www.esa.informatik.tu-darmstadt.de/assets/publications/materials/2010/2010_Dagstuhl.pdf) by Jens Huthmann,Peter Müller,Florian Stock,Dietmar Hildenbrand and Andreas Koch
+  -[From Grassmann’s vision to Geometric Algebra Computing](http://www.gaalop.de/dhilden_data/GrassmannComputers.pdf) by **Dietmar Hildenbrand**
+  - [Compiling Geometric Algebra Computations into Reconfigurable Hardware Accelerators](https://www.esa.informatik.tu-darmstadt.de/assets/publications/materials/2010/2010_Dagstuhl.pdf) by **Jens Huthmann**,**Peter Müller**,**Florian Stock**,**Dietmar Hildenbrand** and **Andreas Koch**
 
 ### Historical
 
 - [The Genesis of Geometric Algebra: A Personal Retrospective](https://davidhestenes.net/misc/Hestenes_2016_-_The_Genesis_of_Geometric_Algebra,_A_Personal_Retrospective.pdf) by **David Hestenes**
-- 
 - [The Vector Algebra War](https://youtu.be/_AaOFCl2ihc?si=w-dp0KaZ9OU5a7SF)
 
 
-- [Applied Geometric Algebra (1976)](https://ocw.mit.edu/courses/res-8-001-applied-geometric-algebra-spring-2009/95490d4f704fabc782963546923670e1_MITRES_8_001_lec_complete.pdf) by Laszlo Tisza
+- [Applied Geometric Algebra (1976)](https://ocw.mit.edu/courses/res-8-001-applied-geometric-algebra-spring-2009/95490d4f704fabc782963546923670e1_MITRES_8_001_lec_complete.pdf) by **Laszlo Tisza**
   [Applied Geometric Algebra, MIT OpenCourseWare](https://ocw.mit.edu/courses/res-8-001-applied-geometric-algebra-spring-2009/)
   
-  Uses **Geometric Algebra** as a synonym for **Clifford Algebra** and does not use the unified notation developed by David Hestenes et al.
+  Uses **Geometric Algebra** as a synonym for **Clifford Algebra** and does not use the unified notation developed by **David Hestenes** et al.
  
 
 ### Biographical
 
-  - [An Interview with David Hestenes: His life and achievements](https://davidhestenes.net/misc/Hestenes_2012_-_Interview_(Tasar).pdf) by Mehmet Fatih Taşar, Sedef Canbazoğlu Bilici, Pınar Fettahlıoğlu
+  - [An Interview with David Hestenes: His life and achievements](https://davidhestenes.net/misc/Hestenes_2012_-_Interview_(Tasar).pdf) by **Mehmet Fatih Taşar**, **Sedef Canbazoğlu Bilici**, **Pınar Fettahlıoğlu**
 Gazi Üniversitesi, TURKEY, Received 22 April 2012; accepted 29 April 2012
