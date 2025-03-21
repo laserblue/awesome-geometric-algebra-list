@@ -50,6 +50,7 @@ A curated list of Geometric Algebra resources, inspired by [awesome](https://git
 ### Online IDE's, SDK's and Computational Modeling Workspaces and Playgrounds
 
 - [STEMCstudio](https://www.stemcstudio.com/) by George C. Holmes
+- ??? CoCalc using a library
 
 ### Websites and Hypermedia
 
